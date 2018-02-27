@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Дарья  Алешина](https://up.htmlacademy.ru/htmlcss/20/user/597871).
+* Наставник: [Anton Grishin](https://up.htmlacademy.ru/htmlcss/20/user/277333).
 
 ---
 
